@@ -1,0 +1,4 @@
+https://data.matr.io/1/projects/5c48dd2bc625d700019f3204
+https://tri-amdd.github.io/beep/Python%20tutorials/1%20-%20quickstart/
+
+https://github.com/TRI-AMDD/beep/tree/master
